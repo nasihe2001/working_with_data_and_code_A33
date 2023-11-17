@@ -21,7 +21,7 @@ You can install these packages using the following command:
 pip install pandas numpy scikit-learn joblib matplotlib streamlit
 
 ```
-### To run the app using the command:
+ To run the app use the following the command:
 ``` bash
 python -m streamlit run app.py
 
