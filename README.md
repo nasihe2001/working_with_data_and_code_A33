@@ -1,7 +1,7 @@
 # Working with Data and Code A3
 
 ## Description
-Ths project is a comprehensive data analysis and predicting project aimed at predicting product sales and commodity prices (specifically coffee and tea) for a coffee shop business. The project utilises historical sales data to forecast future demand for individual products and total sales. Additionally, it predicts coffee and tea prices using historical commodity price data. The project integrates machine learning models, including Support Vector Regression (SVR) for sales prediction and Linear Regression for price forecasting.
+Ths project is a comprehensive data analysis and predicting project aimed at predicting product sales and commodity prices (specifically coffee and tea) for a coffee shop business. The project utilises historical sales data to forecast future demand for individual products and total sales. Additionally, it predicts coffee and tea prices using historical commodity price data. The project integrates machine learning models, including Support Vector Regression (SVR) for sales prediction and Linear Regression for price predicting.
 
 The project also features an alert system to advise on restocking decisions based on predicted price trends in coffee and tea. A Streamlit-based web application serves as the user interface, allowing users to input data, view predictions, and receive restocking suggestions.
 
