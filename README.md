@@ -28,6 +28,6 @@ python -m streamlit run app.py
 ```
 
 ### Sample output
-
+![App Screenshot](sampleoutput.png)
 
 
