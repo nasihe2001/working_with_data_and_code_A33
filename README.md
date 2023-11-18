@@ -5,8 +5,9 @@ Ths project is a comprehensive data analysis and predicting project aimed at pre
 
 The project also features an alert system to advise on restocking decisions based on predicted price trends in coffee and tea. A Streamlit-based web application serves as the user interface, allowing users to input data, view predictions, and receive restocking suggestions.
 
-'pred.ipynb': A Jupyter notebook file that conducts data preprocessing and model training. 
-'app.py': The Streamlit webapp.
+`pred.ipynb`: A Jupyter notebook file that conducts data preprocessing and model training. 
+
+`app.py`: The Streamlit webapp.
 
 ## Usage
 
